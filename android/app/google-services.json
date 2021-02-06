@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130033369068",
+    "firebase_url": "https://chat-app-e50e5.firebaseio.com",
+    "project_id": "chat-app-e50e5",
+    "storage_bucket": "chat-app-e50e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130033369068:android:179dc3156f1b320f278ac9",
+        "android_client_info": {
+          "package_name": "co.aparnakochar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130033369068-33v4mnbkbc412v62ivmv373rq0ng737g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq5F-HGI4_dEky40e28tVMbBzYO608Yw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130033369068-33v4mnbkbc412v62ivmv373rq0ng737g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
