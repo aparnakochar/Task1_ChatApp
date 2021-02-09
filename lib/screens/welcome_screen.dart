@@ -89,10 +89,4 @@ class _WelcomeScreenState extends State<WelcomeScreen>
   }
 }
 
-/*
-tumne clonned mein hi kaam kiya hai kya?hn sabash good thnkuu  waah g  waah errror fix kardi aapne to apnekri h mene  to kuch nhi kiya keval
-vs code restart bsss  bhyi mehnat toh mehnat h  ptani isme kya mehnat hui chlo chl gya mian vo h ok madam ye bhi theek haihnji
-tum standards kyu follow nhi kar rhi knse standard routing ke or bhi alag jgh par  ek vo id krke btaya tha?  ha mjhe vo acha ni lga mjhe ye vala chiz easy ar suttle lgti h
-ye kya baat hui smjh liya h implement toh mrzi hti h ruko fir ek min call pick karo
-*/
 
